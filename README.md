@@ -48,6 +48,7 @@ http://localhost:5002/scrap-data?username=virat&phone_number=7021292055
 
 And when placed after app.run(), No Script will be executed.
 
+Note: WhatsApp Software Should be uninstalled for it to work properly.
 
 ### How to Run the Flask App?
 
