@@ -54,7 +54,7 @@ Note: WhatsApp Software Should be uninstalled for it to work properly.
 
 1. Clone the repository.
    
-`git clone https://github.com/Akshatjainbafna/Dinosys-Web-Scrapping-Assignment.git`
+`git clone https://github.com/Shubh786Shivam/DataScrape.git`
 
 2. Install all the dependencies 
 
