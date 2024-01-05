@@ -10,7 +10,7 @@ It is build using:
 ### Note:
 
 - App is running on port 5002 so you can send the request using any browser or Postman to the endpoint /scrap-data to scrap the data for a particular number & username for example:
-http://localhost:5002/scrap-data?username=virat&phone_number=7021292055
+http://localhost:5002/scrap-data?username=Shubh&phone_number=8268291167
 
 - A lot of things needs to be done manually, like Authenticating in whatsapp and clicking checkbox in confirm box and confirm box in whatsapp to allow whatsapp open a chat on the browser.
 
@@ -66,4 +66,4 @@ Note: WhatsApp Software Should be uninstalled for it to work properly.
 
 4. You can request the API now.
    
-`http://localhost:5002/scrap-data?username=virat&phone_number=7021292055`
+`http://localhost:5002/scrap-data?username=Shubh&phone_number=8268291167`
