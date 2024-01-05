@@ -1,0 +1,49 @@
+[
+  [
+      "WhatsApp",
+      {
+          "Last Seen": null,
+          "Name": "~Abhay Tiwari",
+          "Profile Picture": "https://pps.whatsapp.net/v/t61.24694-24/319927746_634453791769684_6536638722722149914_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTNC_dJAn4Y0IX0UyIrmgZ6DYwU-fwi5gYywpTjBJSoFA&oe=64B1A0B6",
+          "Registered": "Yes",
+          "Status": "Keep smiling 😃, keep shining✨"
+      }
+  ],
+  [
+      "Truecaller",
+      {
+          "Address": [
+              {
+                  "address": "Bangalore, IN",
+                  "city": "Bangalore",
+                  "countryCode": "IN",
+                  "street": "",
+                  "timeZone": "+05:30",
+                  "type": "address",
+                  "zipCode": ""
+              }
+          ],
+          "Email id": "abhaytiwari43@gmail.com",
+          "Name": "Abhay Tiwari",
+          "Registered": "Yes"
+      }
+  ],
+  [
+      "Facebook",
+      {
+          "Cover URL": null,
+          "Name": "ShahRukh Ali",
+          "Profile URL": null,
+          "Registered": "No",
+          "Username": "ShahRukh"
+      }
+  ],
+  [
+      "Gpay",
+      {
+          "Name": null,
+          "Registered": null,
+          "UPI IDs": []
+      }
+  ]
+]
